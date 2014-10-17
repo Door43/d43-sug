@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sug:home|Door43 (sug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sug|d43-sug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sug/archive/master.zip|d43-sug.zip]]
+
+**Recent Changes**
+{{changes>ns = sug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sug|Ethnologue data]]
+
